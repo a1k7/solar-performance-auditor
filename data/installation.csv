@@ -1,0 +1,2 @@
+owner,panelType,panelModel,panelCount,panelW,inverterType,inverterModel,inverterKW,tilt,orientation,commissioned,tariff
+Demo User,Monocrystalline,Mono-440,7,440,StringInverter,StringInv-3K,3,15,South,2022-05-15,8.0
