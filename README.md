@@ -161,7 +161,7 @@ It's not machine learning. It's a set of rules I wrote based on the common thing
 
 ## Screenshot
 
-![Demo report](docs/demo-report.png)
+![Demo report](docs/demo.png)
 
 A sample report showing a −11.4% deviation with a Gradual Degradation diagnosis.
 
