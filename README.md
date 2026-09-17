@@ -41,7 +41,7 @@ That's it. No Maven, no Gradle, and no extra JARs to download. Everything is alr
 Clone the repo:
 
 ```
-git clone https://github.com/<your-username>/solar-performance-auditor
+git clone https://github.com/a1k7/solar-performance-auditor
 cd solar-performance-auditor
 ```
 
